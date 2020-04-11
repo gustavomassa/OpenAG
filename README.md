@@ -113,7 +113,6 @@ Please place logs either in a code block (press `M` in your browser for a GFM ch
 Conduct
 -------
 
-
 There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
 
 - Do not insult, harass, or demean anyone.
@@ -122,3 +121,11 @@ There are basic rules of conduct that should be followed at all times by everyon
 - Do not repeatedly update an open issue remarking that the issue persists.
 
 Remember: Just because the issue you reported was reported here does not mean that it is an issue with Half-Life.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
+
+TODO List
+---------
+
+1. Fix corpse bugs
+2. Implement damage sound and text color
+3. Implement quickshot cvar command
+4. implement go back to the latest weapon when changing to a weapon without ammunition (cvar command?)
